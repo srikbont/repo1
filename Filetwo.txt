@@ -1,0 +1,2 @@
+This is the second file that i have created for the repository.
+Another another change to the second file so as to appear as modified in the git status
