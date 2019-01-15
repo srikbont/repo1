@@ -1,1 +1,2 @@
 This is the fouth file which will be used in Git stash
+Add some changes to the fourth file - as a part of Git branch
