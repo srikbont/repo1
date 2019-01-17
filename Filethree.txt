@@ -1,1 +1,2 @@
 This is the third file created by me
+Adding some changes to third file in the new_branch as a part of three way split merge
